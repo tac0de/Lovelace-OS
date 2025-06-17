@@ -1,0 +1,3 @@
+[console_scripts]
+lovelace_os = main:main
+

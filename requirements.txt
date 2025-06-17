@@ -1,0 +1,29 @@
+# Core testing framework
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Code quality and formatting
+black>=23.0.0
+flake8>=6.0.0
+isort>=5.12.0
+
+# Documentation
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.2.0
+
+# Development utilities
+click>=8.0.0
+requests>=2.28.0
+
+# System-level programming (common for OS development)
+psutil>=5.9.0
+
+# Logging and configuration
+coloredlogs>=15.0.0
+PyYAML>=6.0.0
+
+# Memory and low-level operations
+memory-profiler>=0.60.0
+
+# Async programming support
+aiofiles>=23.0.0

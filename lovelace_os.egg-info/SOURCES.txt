@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+lovelace_os.egg-info/PKG-INFO
+lovelace_os.egg-info/SOURCES.txt
+lovelace_os.egg-info/dependency_links.txt
+lovelace_os.egg-info/entry_points.txt
+lovelace_os.egg-info/not-zip-safe
+lovelace_os.egg-info/requires.txt
+lovelace_os.egg-info/top_level.txt
